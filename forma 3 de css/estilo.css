@@ -1,0 +1,39 @@
+h1{
+	background-color:  silver;
+}
+#navegador ul{
+			list-style-type: none;
+			text-align: left;
+	}
+	#navegador li{
+			display: inline;
+			text-align: left;
+			margin: 0 10px 0 0;
+			margin-color:#ff00ff;
+	}
+	#navegador li a{
+			padding: 2px 7px 2px 7px;
+			color: #666;
+			background-color: #eeeeee;
+			border: 1px solid #ccc;
+			text-decoration: none;
+	}
+	#navegador li a:hover{
+			background-color: #cc4444;
+			color: #ffffff; 
+	}
+		h1{
+		background-color:  pink; 
+	}
+	h6{
+		background-color:  blue;
+	}
+	h3{
+		background-color:  purple;
+	}
+	h4{
+		background-color:  white;
+	}
+	h2{
+		background-color:  green;
+	}
